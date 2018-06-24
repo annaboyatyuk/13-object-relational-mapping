@@ -6,7 +6,7 @@
 
 
 ## Links
-* PR https://github.com/annaboyatyuk/13-object-relational-mapping/pull/1
+* PR https://github.com/annaboyatyuk/13-object-relational-mapping/pull/2
 * Travis https://travis-ci.com/annaboyatyuk/13-object-relational-mapping/builds
 * Heroku https://lab13orm401.herokuapp.com/
 
